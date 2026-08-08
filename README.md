@@ -1,6 +1,6 @@
 ## Hows it going. Im Venkata
 
-I'm a high schooler who is average at programming for a high schooler, but very bad for a professional. I can do full-stack but specialty is front-end.
+I'm a high schooler who is average at programming for a high schooler, but very bad for a professional. I can do full-stack but specialty is front-end. Also, my commit messages are pretty trash(dont ask)
 
 Unlike @openlyfree who is way better at coding and does it as a hobby, I do stuff that's needed instead of cool, fun projects.
 
@@ -36,7 +36,7 @@ Pls dont look at my repos. i have like 20 and most of them are bs.
 | Name | About | URL(maybe) |
 | --- | --- | --- |
 | FiveHive | Providing materials and stuff to help AP Students study | https://fivehive.org/ |
-| SkipCourse | Get credit by submitting projects to prove your knowledge | htpps://skipcourse.com/ |
+| SkipCourse | Get credit by submitting projects to prove your knowledge | https://skipcourse.com/ |
 
 Languages/Frameworks I Know:
 
