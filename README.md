@@ -2,7 +2,7 @@
 
 I'm a high schooler who is average at programming for a high schooler, but very bad for a professional. I can do full-stack but specialty is front-end. Also, my commit messages are pretty trash(dont ask)
 
-Unlike @openlyfree who is way better at coding and does it as a hobby, I do stuff that's needed instead of cool, fun projects.
+I do stuff for the world as well as cool fun projects.
 
 Rly interested about AI and how its changing the IT industry for good. Atp, in 5-10 yrs, they wont teach how to code in a college cs major :) Rly studying that. lol
 
