@@ -25,7 +25,7 @@ Pls dont look at my repos. i have like 20 and most of them are bs.
 | Name | About | URL(maybe) |
 | --- | --- | --- |
 | Youthdevs Website | Teaching high schoolers to start building | https://youthdevs.org/ |
-| SummerDevs 2026 | Hackathon in Phoenix, Arizona | htpps://summerdevs.youthdevs.org/ |
+| SummerDevs 2026 | Hackathon in Phoenix, Arizona | https://summerdevs.youthdevs.org/ |
 | YouthDevs IDE | IDE to help hackathons. Integrated with [Skipcourse](https://skipcourse.com)(thx Ethan) | Coming Soon |
 | French Honor Society Website | Website for communication in French Honor Society. Lots of placeholders rn. pls ignore | https://shf-basis.vercel.app |
 | Mu Alpha Theta Website | Website to spread Math at school | https://maths-basis-phoenix.vercel.app |
