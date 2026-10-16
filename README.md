@@ -49,6 +49,8 @@ I like building projects that are actually used by people, whether that's educat
 - Software Engineering Team Lead @ FiveHive
 - Founder & President, BASIS Phoenix Cybersecurity Club
 
+<small>I'm in school right now, so I'm not that active. I was very active over summer break though!</small>
+
 ## Long-Term Goals
 
 I'm interested in pursuing medicine while continuing to use computer science and machine learning as tools for solving biomedical problems.
