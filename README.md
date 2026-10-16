@@ -24,15 +24,14 @@ I like building projects that are actually used by people, whether that's educat
 
 | Name | About | Link |
 | --- | --- | --- |
-| FiveHive | Open-source AP study platform where I currently serve as a software engineering team lead. I lead the development of major features. | https://fivehive.org/ |
-| SkipCourse | Education platform which I previously intened at. I worked on student dashboards, the AVA AI Chatbot, the admin dashboard, and educational gameplay alongside my team! | https://skipcourse.com/ |
+| FiveHive | Open-source AP study platform where I currently serve as a software engineering team lead, helping lead development of major features across the platform | https://fivehive.org/ |
+| SkipCourse | Education platform where I previously interned as a full-stack developer, working on student dashboards, the AVA AI chatbot, admin tools, educational gameplay, and backend systems alongside my team | https://skipcourse.com/ |
 
 ## Tech
 
 `Python` `TypeScript` `JavaScript` `Java` `C++` `SQL`
 
 `React` `Next.js` `Tailwind CSS` `Firestore` `GCP`
-
 
 ## What I'm Interested In
 
@@ -49,7 +48,7 @@ I like building projects that are actually used by people, whether that's educat
 - Software Engineering Team Lead @ FiveHive
 - Founder & President, BASIS Phoenix Cybersecurity Club
 
-<small>I'm in school right now, so I'm not that active. I was very active over summer break though!</small>
+<small>GitHub activity varies during the school year, but I work on projects whenever I can — especially during breaks and weekends.</small>
 
 ## Long-Term Goals
 
